@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Beadandó</string>
+    <string name="musicPlayerText">Name</string>
+    <string name="musicPlayerButton">Music Player</string>
+    <string name="whoseMusicPlayer">music player</string>
+    <string name="noSongs">No songs found</string>
+    <string name="dataStoreButton">Store Data</string>
+    <string name="newsButton">News</string>
+    <string name="firstName">Firstname</string>
+    <string name="lastName">Lastname</string>
+    <string name="jerseyNumber">Jersey number</string>
+    <string name="team">Team</string>
+    <string name="conditions">Accept user conditions</string>
+    <string name="saveButton">Save</string>
+    <string name="businessCategory">Business</string>
+    <string name="entertainmentCategory">Entertainment</string>
+    <string name="generalCategory">General</string>
+    <string name="healthCategory">Health</string>
+    <string name="scienceCategory">Science</string>
+    <string name="sportsCategory">Sports</string>
+    <string name="technologyCategory">Technology</string>
+    <string name="searchBar">Search News...</string>
+    <string name="fetchingNews">Fetching news articles...</string>
+    <string name="noDataFoundToast">No data found!!</string>
+    <string name="errorOccurredToast">An error occured!</string>
+    <string name="readPermissionRequiredToast">Read permission is required! Please allow in settings!</string>
+    <string name="savedSuccessfullyToast">Data saved successfully!</string>
+    <string name="saveFailedToast">An error occurred while saving data!</string>
+    <string name="api_key">727bddfd6eac46c1b8a6eb82a7694205</string>
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Beadandó</string>
+
+    <string name="musicPlayerText">Név</string>
+    <string name="musicPlayerButton">Zenelejátszó</string>
+    <string name="whoseMusicPlayer">zenelejátszója</string>
+    <string name="noSongs">Nem találhatóak zeneszámok</string>
+    <string name="dataStoreButton">Adattárolás</string>
+    <string name="newsButton">Hírek</string>
+    <string name="firstName">Keresztnév</string>
+    <string name="lastName">Vezetéknév</string>
+    <string name="jerseyNumber">Mezszám</string>
+    <string name="team">Csapat</string>
+    <string name="conditions">Felhasználói feltételek elfogadása</string>
+    <string name="saveButton">Mentés</string>
+    <string name="businessCategory">Üzlet</string>
+    <string name="entertainmentCategory">Szórakozás</string>
+    <string name="generalCategory">Általános</string>
+    <string name="healthCategory">Egészség</string>
+    <string name="scienceCategory">Tudomány</string>
+    <string name="sportsCategory">Sport</string>
+    <string name="technologyCategory">Technológia</string>
+    <string name="searchBar">Hírek keresése...</string>
+    <string name="fetchingNews">Hírek lekérdezése...</string>
+    <string name="noDataFoundToast">Nem található adat!</string>
+    <string name="errorOccurredToast">Hiba történt!</string>
+    <string name="readPermissionRequiredToast">Olvasási jog szükséges! Engedélyezze a beállításokban!</string>
+    <string name="savedSuccessfullyToast">Adatok sikeresen elmentve!</string>
+    <string name="saveFailedToast">Hiba az adatok mentése során!</string>
+    <string name="api_key">727bddfd6eac46c1b8a6eb82a7694205</string>
+</resources>
